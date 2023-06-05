@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical" android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/purple_200">
+
+    <ImageView
+        android:layout_width="126dp"
+        android:layout_height="126dp"
+        android:background="@color/teal_200"
+        android:src="@drawable/ic_book" />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="My Quran App"
+    android:textColor="@color/white"
+    android:background="@color/black"
+    android:textSize="20sp" />
+</LinearLayout>
