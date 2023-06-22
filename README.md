@@ -1,1 +1,1 @@
-# MY QURAN APP
+# QURAN APP
